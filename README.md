@@ -4,7 +4,7 @@ Large Language Models (LLMs) are gearing up to surpass human creativity. The ver
 We introduce a new work called BMAS English: an English language dataset for Binary classification of human and machine text, for Multiclass-classification, which not only identifies machine-generated text but can also try to determine its generator, and Adversarial attack addressing where it is a common act for the mitigation of detection, and Sentence-level segmentation, for predicting the boundaries between human and machine-generated text. We believe that this paper will address previous work done in machine-generated text detection (MGTD) in a more meaningful way.
 
 <div align="center">
-  <img src="Images/EMLP.drawio.png" alt="Overview of All Experiments" width="600"/>
+  <img src="Images/EMNLP.drawio.png" alt="Overview of All Experiments" width="1000"/>
 </div>
 
 
