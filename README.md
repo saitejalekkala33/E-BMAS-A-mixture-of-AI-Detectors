@@ -3,6 +3,11 @@
 Large Language Models (LLMs) are gearing up to surpass human creativity. The veracity of the statement needs careful consideration. This paper addresses machine-generated content across several scenarios, including document-level binary and multiclass classification, sentence-level segmentation to differentiate between human and machine-generated text, and a survey of adversarial attacks aimed at reducing the detectability of machine-generated content.
 We introduce a new work called BMAS English: an English language dataset for Binary classification of human and machine text, for Multiclass-classification, which not only identifies machine-generated text but can also try to determine its generator, and Adversarial attack addressing where it is a common act for the mitigation of detection, and Sentence-level segmentation, for predicting the boundaries between human and machine-generated text. We believe that this paper will address previous work done in machine-generated text detection (MGTD) in a more meaningful way.
 
+<div align="center">
+  <img src="Images/EMLP.drawio.png" alt="Overview of All Experiments" width="600"/>
+</div>
+
+
 
 ## Dataset Statistics
 The dataset used in this work can be downloaded from the following [Google Drive link](https://drive.google.com/drive/folders/1tWqFkJJHfs2uFGU3O1_BoHo3QebKVbYx)
